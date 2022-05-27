@@ -1,0 +1,28 @@
+body{
+	background-color: white;
+}
+.box{
+
+	background-color:#d1cfcf;
+	color: black;
+	text-align: center;
+	display: inline-block;
+	border-radius: 20px;
+	width: 25px;
+	height: 20px;
+
+	}
+.search{
+	display: inline-block;
+	border-radius: 30px;
+}
+.boxes{
+	background-color:#d1cfcf ;
+	width: 25px;
+	height: 20px;
+	border-radius: 30px;
+	height: 20px;
+	display: inline-block;
+	
+
+}
